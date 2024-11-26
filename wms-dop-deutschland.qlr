@@ -8,22 +8,22 @@
       <customproperties>
         <Option/>
       </customproperties>
-      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=OI.OrthoimageCoverage&amp;styles&amp;tilePixelRatio=0&amp;url=http://owsproxy.lgl-bw.de/owsproxy/ows/WMS_INSP_BW_Orthofoto_DOP20" checked="Qt::Unchecked" legend_split_behavior="0" id="Baden_W_rttemberg_1a5f90db_dbee_43c6_9927_1339cb208adf" patch_size="-1,-1" providerKey="wms" name="Baden-Württemberg" legend_exp="">
+      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=OI.OrthoimageCoverage&amp;styles&amp;tilePixelRatio=0&amp;url=http://owsproxy.lgl-bw.de/owsproxy/ows/WMS_INSP_BW_Orthofoto_DOP20" checked="Qt::Unchecked" legend_split_behavior="0" id="Baden_W_rttemberg_7a08609f_78bf_4299_836b_faabd954a79f" patch_size="-1,-1" providerKey="wms" name="Baden-Württemberg" legend_exp="">
         <customproperties>
           <Option/>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=by_dop20c&amp;styles&amp;tilePixelRatio=0&amp;url=https://geoservices.bayern.de/od/wms/dop/v1/dop20" checked="Qt::Unchecked" legend_split_behavior="0" id="Bayern_4da56c52_c824_4a96_8581_5efa1955986b" patch_size="-1,-1" providerKey="wms" name="Bayern" legend_exp="">
+      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=by_dop20c&amp;styles&amp;tilePixelRatio=0&amp;url=https://geoservices.bayern.de/od/wms/dop/v1/dop20" checked="Qt::Unchecked" legend_split_behavior="0" id="Bayern_ca4de3c4_4587_43b8_941d_407c359ee736" patch_size="-1,-1" providerKey="wms" name="Bayern" legend_exp="">
         <customproperties>
           <Option/>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=truedop_2024&amp;styles&amp;tilePixelRatio=0&amp;url=https://gdi.berlin.de/services/wms/truedop_2024" checked="Qt::Unchecked" legend_split_behavior="0" id="Berlin_9335e49f_1838_45bb_81f2_6f31a9ecc063" patch_size="-1,-1" providerKey="wms" name="Berlin" legend_exp="">
+      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=truedop_2024&amp;styles&amp;tilePixelRatio=0&amp;url=https://gdi.berlin.de/services/wms/truedop_2024" checked="Qt::Unchecked" legend_split_behavior="0" id="Berlin_0a7940a6_e2fe_41f1_a949_c216fdd2018c" patch_size="-1,-1" providerKey="wms" name="Berlin" legend_exp="">
         <customproperties>
           <Option/>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=bebb_dop20c&amp;styles&amp;tilePixelRatio=0&amp;url=https://isk.geobasis-bb.de/mapproxy/dop20c/service/wms" checked="Qt::Unchecked" legend_split_behavior="0" id="Brandenburg_1d153789_1b4b_49e9_9e1d_e601e2bd38ce" patch_size="-1,-1" providerKey="wms" name="Brandenburg" legend_exp="">
+      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=bebb_dop20c&amp;styles&amp;tilePixelRatio=0&amp;url=https://isk.geobasis-bb.de/mapproxy/dop20c/service/wms" checked="Qt::Unchecked" legend_split_behavior="0" id="Brandenburg_0b2d0b61_4356_4023_8a44_3e461029bc57" patch_size="-1,-1" providerKey="wms" name="Brandenburg" legend_exp="">
         <customproperties>
           <Option/>
         </customproperties>
@@ -32,12 +32,12 @@
         <customproperties>
           <Option/>
         </customproperties>
-        <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=DOP10_2023_HB&amp;styles&amp;tilePixelRatio=0&amp;url=https://geodienste.bremen.de/wms_dop10_2023?language%3Dger" checked="Qt::Checked" legend_split_behavior="0" id="Bremen_6ecae21a_376d_453c_bc51_32af523685cb" patch_size="-1,-1" providerKey="wms" name="Bremen" legend_exp="">
+        <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=DOP10_2023_HB&amp;styles&amp;tilePixelRatio=0&amp;url=https://geodienste.bremen.de/wms_dop10_2023?language%3Dger" checked="Qt::Checked" legend_split_behavior="0" id="Bremen_4b75fbaa_4a53_4167_a12e_60ace251945d" patch_size="-1,-1" providerKey="wms" name="Bremen" legend_exp="">
           <customproperties>
             <Option/>
           </customproperties>
         </layer-tree-layer>
-        <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=DOP10_2023_BHV&amp;styles&amp;tilePixelRatio=0&amp;url=https://geodienste.bremen.de/wms_dop10_2023?language%3Dger" checked="Qt::Checked" legend_split_behavior="0" id="Bremerhaven_fcec5153_502a_42ad_9bda_f0cf0f17de1a" patch_size="-1,-1" providerKey="wms" name="Bremerhaven" legend_exp="">
+        <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=DOP10_2023_BHV&amp;styles&amp;tilePixelRatio=0&amp;url=https://geodienste.bremen.de/wms_dop10_2023?language%3Dger" checked="Qt::Checked" legend_split_behavior="0" id="Bremerhaven_8bad9100_8d11_4f46_a276_8290afec05bc" patch_size="-1,-1" providerKey="wms" name="Bremerhaven" legend_exp="">
           <customproperties>
             <Option/>
           </customproperties>
@@ -47,63 +47,63 @@
         <customproperties>
           <Option/>
         </customproperties>
-        <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=dop_rgb_0_5000&amp;styles&amp;tilePixelRatio=0&amp;url=https://geodienste.hamburg.de/HH_WMS_DOP?language%3Dger" checked="Qt::Checked" legend_split_behavior="0" id="Hamburg__RGB__bis_1_5000_fbb14bba_6aff_411c_b72c_771e437b8cff" patch_size="-1,-1" providerKey="wms" name="Hamburg (RGB) bis 1:5000" legend_exp="">
+        <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=dop_rgb_0_5000&amp;styles&amp;tilePixelRatio=0&amp;url=https://geodienste.hamburg.de/HH_WMS_DOP?language%3Dger" checked="Qt::Checked" legend_split_behavior="0" id="Hamburg__RGB__bis_1_5000_3693fd79_3f1f_4589_b9dc_bedf96260ac7" patch_size="-1,-1" providerKey="wms" name="Hamburg (RGB) bis 1:5000" legend_exp="">
           <customproperties>
             <Option/>
           </customproperties>
         </layer-tree-layer>
-        <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=dop_rgb_downscale&amp;styles&amp;tilePixelRatio=0&amp;url=https://geodienste.hamburg.de/HH_WMS_DOP?language%3Dger" checked="Qt::Checked" legend_split_behavior="0" id="Hamburg__RGB__Overview_4b1e4a10_10b5_4e15_815b_c58957f5a060" patch_size="-1,-1" providerKey="wms" name="Hamburg (RGB) Overview" legend_exp="">
+        <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=dop_rgb_downscale&amp;styles&amp;tilePixelRatio=0&amp;url=https://geodienste.hamburg.de/HH_WMS_DOP?language%3Dger" checked="Qt::Checked" legend_split_behavior="0" id="Hamburg__RGB__Overview_e580cab4_2178_4063_9975_8548fd89d169" patch_size="-1,-1" providerKey="wms" name="Hamburg (RGB) Overview" legend_exp="">
           <customproperties>
             <Option/>
           </customproperties>
         </layer-tree-layer>
       </layer-tree-group>
-      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=he_dop_rgb&amp;styles&amp;tilePixelRatio=0&amp;url=https://www.gds-srv.hessen.de/cgi-bin/lika-services/ogc-free-images.ows?language%3Dger%26VERSION%3D1.1.1" checked="Qt::Unchecked" legend_split_behavior="0" id="Hessen_f96432e9_83bd_43e8_9e18_dd5b05c27104" patch_size="-1,-1" providerKey="wms" name="Hessen" legend_exp="">
+      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=he_dop_rgb&amp;styles&amp;tilePixelRatio=0&amp;url=https://www.gds-srv.hessen.de/cgi-bin/lika-services/ogc-free-images.ows?language%3Dger%26VERSION%3D1.1.1" checked="Qt::Unchecked" legend_split_behavior="0" id="Hessen_8eb06d0d_b4f4_4933_8ef1_b148aeb8289c" patch_size="-1,-1" providerKey="wms" name="Hessen" legend_exp="">
         <customproperties>
           <Option/>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=mv_dop&amp;styles&amp;tilePixelRatio=0&amp;url=https://www.geodaten-mv.de/dienste/adv_dop?language%3Dger" checked="Qt::Unchecked" legend_split_behavior="0" id="Mecklenburg_Vorpommern_ef9fc76b_6ea7_4aca_ad1c_3bb012ff51b4" patch_size="-1,-1" providerKey="wms" name="Mecklenburg-Vorpommern" legend_exp="">
+      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=mv_dop&amp;styles&amp;tilePixelRatio=0&amp;url=https://www.geodaten-mv.de/dienste/adv_dop?language%3Dger" checked="Qt::Unchecked" legend_split_behavior="0" id="Mecklenburg_Vorpommern_9ec44c46_c22c_47e2_9d29_65d36a93151c" patch_size="-1,-1" providerKey="wms" name="Mecklenburg-Vorpommern" legend_exp="">
         <customproperties>
           <Option/>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=ni_dop20&amp;styles&amp;tilePixelRatio=0&amp;url=https://opendata.lgln.niedersachsen.de/doorman/noauth/dop_wms" checked="Qt::Unchecked" legend_split_behavior="0" id="Niedersachsen_8d73ee7b_c1bb_497d_bb86_54fda830dc47" patch_size="-1,-1" providerKey="wms" name="Niedersachsen" legend_exp="">
+      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=ni_dop20&amp;styles&amp;tilePixelRatio=0&amp;url=https://opendata.lgln.niedersachsen.de/doorman/noauth/dop_wms" checked="Qt::Unchecked" legend_split_behavior="0" id="Niedersachsen_bff0e158_86f5_4057_a306_a9916c648eb5" patch_size="-1,-1" providerKey="wms" name="Niedersachsen" legend_exp="">
         <customproperties>
           <Option/>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=nw_dop_rgb&amp;styles&amp;tilePixelRatio=0&amp;url=https://www.wms.nrw.de/geobasis/wms_nw_dop" checked="Qt::Unchecked" legend_split_behavior="0" id="Nordrhein_Westfalen_11db8edb_ad28_4e3f_a1a8_a3ad0d60821d" patch_size="-1,-1" providerKey="wms" name="Nordrhein-Westfalen" legend_exp="">
+      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=nw_dop_rgb&amp;styles&amp;tilePixelRatio=0&amp;url=https://www.wms.nrw.de/geobasis/wms_nw_dop" checked="Qt::Unchecked" legend_split_behavior="0" id="Nordrhein_Westfalen_ba39cb58_c241_4116_a206_fe1a0969c72e" patch_size="-1,-1" providerKey="wms" name="Nordrhein-Westfalen" legend_exp="">
         <customproperties>
           <Option/>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=wms_rp_dop20&amp;styles&amp;tilePixelRatio=0&amp;url=https://www.geoportal.rlp.de/mapbender/php/wms.php?layer_id%3D61675%26VERSION%3D1.1.1" checked="Qt::Unchecked" legend_split_behavior="0" id="Rheinland_Pfalz_34055d3a_25a1_4a8d_95b2_247b259d7c1d" patch_size="-1,-1" providerKey="wms" name="Rheinland-Pfalz" legend_exp="">
+      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=wms_rp_dop20&amp;styles&amp;tilePixelRatio=0&amp;url=https://www.geoportal.rlp.de/mapbender/php/wms.php?layer_id%3D61675%26VERSION%3D1.1.1" checked="Qt::Unchecked" legend_split_behavior="0" id="Rheinland_Pfalz_f4bb7da3_4094_42f7_8c14_b676cb734c99" patch_size="-1,-1" providerKey="wms" name="Rheinland-Pfalz" legend_exp="">
         <customproperties>
           <Option/>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=sl_dop20_rgb&amp;styles&amp;tilePixelRatio=0&amp;url=https://geoportal.saarland.de/mapbender/php/wms.php?inspire%3D1%26layer_id%3D46747%26withChilds%3D1" checked="Qt::Unchecked" legend_split_behavior="0" id="Saarland_09023244_2588_474a_a8fd_d5e960898232" patch_size="-1,-1" providerKey="wms" name="Saarland" legend_exp="">
+      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=sl_dop20_rgb&amp;styles&amp;tilePixelRatio=0&amp;url=https://geoportal.saarland.de/mapbender/php/wms.php?inspire%3D1%26layer_id%3D46747%26withChilds%3D1" checked="Qt::Unchecked" legend_split_behavior="0" id="Saarland_abaa9042_2729_4199_b8ba_765b4be8101a" patch_size="-1,-1" providerKey="wms" name="Saarland" legend_exp="">
         <customproperties>
           <Option/>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=sn_dop_020&amp;styles&amp;tilePixelRatio=0&amp;url=https://geodienste.sachsen.de/wms_geosn_dop-rgb/guest" checked="Qt::Unchecked" legend_split_behavior="0" id="Sachsen_f522b5ed_63d6_4f13_b15b_300f186fa663" patch_size="-1,-1" providerKey="wms" name="Sachsen" legend_exp="">
+      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=sn_dop_020&amp;styles&amp;tilePixelRatio=0&amp;url=https://geodienste.sachsen.de/wms_geosn_dop-rgb/guest" checked="Qt::Unchecked" legend_split_behavior="0" id="Sachsen_9aa6af2a_2927_4f5c_804d_d8febf49451d" patch_size="-1,-1" providerKey="wms" name="Sachsen" legend_exp="">
         <customproperties>
           <Option/>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=lsa_lvermgeo_dop20_2&amp;styles&amp;tilePixelRatio=0&amp;url=https://www.geodatenportal.sachsen-anhalt.de/wss/service/ST_LVermGeo_DOP_WMS_OpenData/guest" checked="Qt::Unchecked" legend_split_behavior="0" id="Sachsen_Anhalt_3ddd7f29_9ca8_4e26_886e_a2f1838d76c2" patch_size="-1,-1" providerKey="wms" name="Sachsen-Anhalt" legend_exp="">
+      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=lsa_lvermgeo_dop20_2&amp;styles&amp;tilePixelRatio=0&amp;url=https://www.geodatenportal.sachsen-anhalt.de/wss/service/ST_LVermGeo_DOP_WMS_OpenData/guest" checked="Qt::Unchecked" legend_split_behavior="0" id="Sachsen_Anhalt_88d88e24_263b_4e06_a9f8_ba726b78213e" patch_size="-1,-1" providerKey="wms" name="Sachsen-Anhalt" legend_exp="">
         <customproperties>
           <Option/>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=sh_dop20_rgb&amp;styles&amp;tilePixelRatio=0&amp;url=https://dienste.gdi-sh.de/WMS_SH_DOP20col_OpenGBD?version%3D1.3.0" checked="Qt::Unchecked" legend_split_behavior="0" id="Schleswig_Holstein_c1c46639_79c7_45cd_a851_dcb020bd914c" patch_size="-1,-1" providerKey="wms" name="Schleswig-Holstein" legend_exp="">
+      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=sh_dop20_rgb&amp;styles&amp;tilePixelRatio=0&amp;url=https://dienste.gdi-sh.de/WMS_SH_DOP20col_OpenGBD?version%3D1.3.0" checked="Qt::Unchecked" legend_split_behavior="0" id="Schleswig_Holstein_cccbee6e_0306_4303_9d6d_4901c3962bce" patch_size="-1,-1" providerKey="wms" name="Schleswig-Holstein" legend_exp="">
         <customproperties>
           <Option/>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=th_dop&amp;styles&amp;tilePixelRatio=0&amp;url=https://www.geoproxy.geoportal-th.de/geoproxy/services/DOP20" checked="Qt::Unchecked" legend_split_behavior="0" id="Th_ringen_fbd54318_338f_4ab0_9682_9b5f12309f37" patch_size="-1,-1" providerKey="wms" name="Thüringen" legend_exp="">
+      <layer-tree-layer expanded="0" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=th_dop&amp;styles&amp;tilePixelRatio=0&amp;url=https://www.geoproxy.geoportal-th.de/geoproxy/services/DOP20" checked="Qt::Unchecked" legend_split_behavior="0" id="Th_ringen_45090ba0_579d_4c8b_92d4_89493707a5ec" patch_size="-1,-1" providerKey="wms" name="Thüringen" legend_exp="">
         <customproperties>
           <Option/>
         </customproperties>
@@ -124,7 +124,7 @@
         <xmax>10.69999504589876338</xmax>
         <ymax>49.99999514374859189</ymax>
       </wgs84extent>
-      <id>Baden_W_rttemberg_1a5f90db_dbee_43c6_9927_1339cb208adf</id>
+      <id>Baden_W_rttemberg_7a08609f_78bf_4299_836b_faabd954a79f</id>
       <datasource>crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=OI.OrthoimageCoverage&amp;styles&amp;tilePixelRatio=0&amp;url=http://owsproxy.lgl-bw.de/owsproxy/ows/WMS_INSP_BW_Orthofoto_DOP20</datasource>
       <keywordList>
         <value></value>
@@ -328,7 +328,7 @@
         <xmax>14.03276700000002464</xmax>
         <ymax>50.58790500000003476</ymax>
       </wgs84extent>
-      <id>Bayern_4da56c52_c824_4a96_8581_5efa1955986b</id>
+      <id>Bayern_ca4de3c4_4587_43b8_941d_407c359ee736</id>
       <datasource>crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=by_dop20c&amp;styles&amp;tilePixelRatio=0&amp;url=https://geoservices.bayern.de/od/wms/dop/v1/dop20</datasource>
       <keywordList>
         <value></value>
@@ -532,7 +532,7 @@
         <xmax>13.76741759217441619</xmax>
         <ymax>52.68540600812321628</ymax>
       </wgs84extent>
-      <id>Berlin_9335e49f_1838_45bb_81f2_6f31a9ecc063</id>
+      <id>Berlin_0a7940a6_e2fe_41f1_a949_c216fdd2018c</id>
       <datasource>crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=truedop_2024&amp;styles&amp;tilePixelRatio=0&amp;url=https://gdi.berlin.de/services/wms/truedop_2024</datasource>
       <keywordList>
         <value></value>
@@ -736,7 +736,7 @@
         <xmax>15.00906883931531155</xmax>
         <ymax>53.61004915755325584</ymax>
       </wgs84extent>
-      <id>Brandenburg_1d153789_1b4b_49e9_9e1d_e601e2bd38ce</id>
+      <id>Brandenburg_0b2d0b61_4356_4023_8a44_3e461029bc57</id>
       <datasource>crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=bebb_dop20c&amp;styles&amp;tilePixelRatio=0&amp;url=https://isk.geobasis-bb.de/mapproxy/dop20c/service/wms</datasource>
       <keywordList>
         <value></value>
@@ -940,7 +940,7 @@
         <xmax>9.01387522391210361</xmax>
         <ymax>53.23201360035680096</ymax>
       </wgs84extent>
-      <id>Bremen_6ecae21a_376d_453c_bc51_32af523685cb</id>
+      <id>Bremen_4b75fbaa_4a53_4167_a12e_60ace251945d</id>
       <datasource>crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=DOP10_2023_HB&amp;styles&amp;tilePixelRatio=0&amp;url=https://geodienste.bremen.de/wms_dop10_2023?language%3Dger</datasource>
       <keywordList>
         <value></value>
@@ -1144,7 +1144,7 @@
         <xmax>8.66104392976846427</xmax>
         <ymax>53.61283389163990165</ymax>
       </wgs84extent>
-      <id>Bremerhaven_fcec5153_502a_42ad_9bda_f0cf0f17de1a</id>
+      <id>Bremerhaven_8bad9100_8d11_4f46_a276_8290afec05bc</id>
       <datasource>crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=DOP10_2023_BHV&amp;styles&amp;tilePixelRatio=0&amp;url=https://geodienste.bremen.de/wms_dop10_2023?language%3Dger</datasource>
       <keywordList>
         <value></value>
@@ -1348,7 +1348,7 @@
         <xmax>10.33511734379509406</xmax>
         <ymax>53.7433026128424487</ymax>
       </wgs84extent>
-      <id>Hamburg__RGB__bis_1_5000_fbb14bba_6aff_411c_b72c_771e437b8cff</id>
+      <id>Hamburg__RGB__bis_1_5000_3693fd79_3f1f_4589_b9dc_bedf96260ac7</id>
       <datasource>crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=dop_rgb_0_5000&amp;styles&amp;tilePixelRatio=0&amp;url=https://geodienste.hamburg.de/HH_WMS_DOP?language%3Dger</datasource>
       <keywordList>
         <value></value>
@@ -1552,7 +1552,7 @@
         <xmax>10.33511734379509406</xmax>
         <ymax>53.7433026128424487</ymax>
       </wgs84extent>
-      <id>Hamburg__RGB__Overview_4b1e4a10_10b5_4e15_815b_c58957f5a060</id>
+      <id>Hamburg__RGB__Overview_e580cab4_2178_4063_9975_8548fd89d169</id>
       <datasource>crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=dop_rgb_downscale&amp;styles&amp;tilePixelRatio=0&amp;url=https://geodienste.hamburg.de/HH_WMS_DOP?language%3Dger</datasource>
       <keywordList>
         <value></value>
@@ -1756,7 +1756,7 @@
         <xmax>10.50004802995943187</xmax>
         <ymax>51.75957650394963139</ymax>
       </wgs84extent>
-      <id>Hessen_f96432e9_83bd_43e8_9e18_dd5b05c27104</id>
+      <id>Hessen_8eb06d0d_b4f4_4933_8ef1_b148aeb8289c</id>
       <datasource>crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=he_dop_rgb&amp;styles&amp;tilePixelRatio=0&amp;url=https://www.gds-srv.hessen.de/cgi-bin/lika-services/ogc-free-images.ows?language%3Dger%26VERSION%3D1.1.1</datasource>
       <keywordList>
         <value></value>
@@ -1960,7 +1960,7 @@
         <xmax>14.4769796242849953</xmax>
         <ymax>54.82093231562635793</ymax>
       </wgs84extent>
-      <id>Mecklenburg_Vorpommern_ef9fc76b_6ea7_4aca_ad1c_3bb012ff51b4</id>
+      <id>Mecklenburg_Vorpommern_9ec44c46_c22c_47e2_9d29_65d36a93151c</id>
       <datasource>crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=mv_dop&amp;styles&amp;tilePixelRatio=0&amp;url=https://www.geodaten-mv.de/dienste/adv_dop?language%3Dger</datasource>
       <keywordList>
         <value></value>
@@ -2164,7 +2164,7 @@
         <xmax>11.75400633506187731</xmax>
         <ymax>54.14807524372765357</ymax>
       </wgs84extent>
-      <id>Niedersachsen_8d73ee7b_c1bb_497d_bb86_54fda830dc47</id>
+      <id>Niedersachsen_bff0e158_86f5_4057_a306_a9916c648eb5</id>
       <datasource>crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=ni_dop20&amp;styles&amp;tilePixelRatio=0&amp;url=https://opendata.lgln.niedersachsen.de/doorman/noauth/dop_wms</datasource>
       <keywordList>
         <value></value>
@@ -2368,7 +2368,7 @@
         <xmax>9.74158200000000818</xmax>
         <ymax>52.7997970000000052</ymax>
       </wgs84extent>
-      <id>Nordrhein_Westfalen_11db8edb_ad28_4e3f_a1a8_a3ad0d60821d</id>
+      <id>Nordrhein_Westfalen_ba39cb58_c241_4116_a206_fe1a0969c72e</id>
       <datasource>crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=nw_dop_rgb&amp;styles&amp;tilePixelRatio=0&amp;url=https://www.wms.nrw.de/geobasis/wms_nw_dop</datasource>
       <keywordList>
         <value></value>
@@ -2572,7 +2572,7 @@
         <xmax>8.61770300000001299</xmax>
         <ymax>51.0008929999999765</ymax>
       </wgs84extent>
-      <id>Rheinland_Pfalz_34055d3a_25a1_4a8d_95b2_247b259d7c1d</id>
+      <id>Rheinland_Pfalz_f4bb7da3_4094_42f7_8c14_b676cb734c99</id>
       <datasource>crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=wms_rp_dop20&amp;styles&amp;tilePixelRatio=0&amp;url=https://www.geoportal.rlp.de/mapbender/php/wms.php?layer_id%3D61675%26VERSION%3D1.1.1</datasource>
       <keywordList>
         <value></value>
@@ -2776,7 +2776,7 @@
         <xmax>7.43816733349655479</xmax>
         <ymax>49.65976322213283112</ymax>
       </wgs84extent>
-      <id>Saarland_09023244_2588_474a_a8fd_d5e960898232</id>
+      <id>Saarland_abaa9042_2729_4199_b8ba_765b4be8101a</id>
       <datasource>crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=sl_dop20_rgb&amp;styles&amp;tilePixelRatio=0&amp;url=https://geoportal.saarland.de/mapbender/php/wms.php?inspire%3D1%26layer_id%3D46747%26withChilds%3D1</datasource>
       <keywordList>
         <value></value>
@@ -2980,7 +2980,7 @@
         <xmax>15.08686002634391166</xmax>
         <ymax>51.72093006397916781</ymax>
       </wgs84extent>
-      <id>Sachsen_f522b5ed_63d6_4f13_b15b_300f186fa663</id>
+      <id>Sachsen_9aa6af2a_2927_4f5c_804d_d8febf49451d</id>
       <datasource>crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=sn_dop_020&amp;styles&amp;tilePixelRatio=0&amp;url=https://geodienste.sachsen.de/wms_geosn_dop-rgb/guest</datasource>
       <keywordList>
         <value></value>
@@ -3184,7 +3184,7 @@
         <xmax>13.3232733048902432</xmax>
         <ymax>53.07692684264801386</ymax>
       </wgs84extent>
-      <id>Sachsen_Anhalt_3ddd7f29_9ca8_4e26_886e_a2f1838d76c2</id>
+      <id>Sachsen_Anhalt_88d88e24_263b_4e06_a9f8_ba726b78213e</id>
       <datasource>crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=lsa_lvermgeo_dop20_2&amp;styles&amp;tilePixelRatio=0&amp;url=https://www.geodatenportal.sachsen-anhalt.de/wss/service/ST_LVermGeo_DOP_WMS_OpenData/guest</datasource>
       <keywordList>
         <value></value>
@@ -3388,7 +3388,7 @@
         <xmax>20.44889129449331122</xmax>
         <ymax>56.84787345155527305</ymax>
       </wgs84extent>
-      <id>Schleswig_Holstein_c1c46639_79c7_45cd_a851_dcb020bd914c</id>
+      <id>Schleswig_Holstein_cccbee6e_0306_4303_9d6d_4901c3962bce</id>
       <datasource>crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=sh_dop20_rgb&amp;styles&amp;tilePixelRatio=0&amp;url=https://dienste.gdi-sh.de/WMS_SH_DOP20col_OpenGBD?version%3D1.3.0</datasource>
       <keywordList>
         <value></value>
@@ -3592,7 +3592,7 @@
         <xmax>12.71188403958517199</xmax>
         <ymax>51.66367013020456511</ymax>
       </wgs84extent>
-      <id>Th_ringen_fbd54318_338f_4ab0_9682_9b5f12309f37</id>
+      <id>Th_ringen_45090ba0_579d_4c8b_92d4_89493707a5ec</id>
       <datasource>crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=th_dop&amp;styles&amp;tilePixelRatio=0&amp;url=https://www.geoproxy.geoportal-th.de/geoproxy/services/DOP20</datasource>
       <keywordList>
         <value></value>
