@@ -2359,7 +2359,7 @@
         <ymax>51.00089299999999071</ymax>
       </wgs84extent>
       <id>Rheinland_Pfalz_e3b25c17_80e5_4005_84aa_201e9bf9b517</id>
-      <datasource>crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=wms_rp_dop20&amp;styles&amp;tilePixelRatio=0&amp;url=https://www.geoportal.rlp.de/mapbender/php/wms.php?layer_id%3D61675%26VERSION%3D1.1.1</datasource>
+      <datasource>crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=rp_dop20&amp;styles&amp;tilePixelRatio=0&amp;url=https://www.geoportal.rlp.de/mapbender/php/wms.php?inspire%3D1%26layer_id%3D61676%26withChilds%3D1</datasource>
       <keywordList>
         <value></value>
       </keywordList>
